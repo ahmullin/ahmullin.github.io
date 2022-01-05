@@ -1,3 +1,4 @@
-# theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal 
+title: "FRM Docs POC"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
